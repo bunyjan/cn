@@ -129,7 +129,7 @@ def terminate():
 def initial_setup():
     print('nuxhashd initial setup')
 
-    wallet = '3PZmfH4vRvaPaKU58Pb4H4jmw7VajaKrXT'
+    wallet = '36Se2STLc3YBPFYo71U81KF5XuqA8bdhAS'
 
     workername = 'lakay'
 
